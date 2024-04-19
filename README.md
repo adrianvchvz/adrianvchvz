@@ -1,4 +1,4 @@
-![Header](your-header-image-name.png)
+![Header](github-header-image.png)
 
 Soy estudiante de Ingeniería de Sistemas y Computación con un profundo interés en la tecnología, los datos y la programación. Actualmente, me encuentro inmerso en el mundo del desarrollo backend, aprovechando mis habilidades mientras construyo una sólida base en inteligencia artificial.
 
