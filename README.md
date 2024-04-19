@@ -1,8 +1,4 @@
-Hola ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)Mi nombre es Alex Adrian Vera Chavez
-==========================================================================================================================================
-
-Backend Developer
------------------
+![Header](./your-header-image-name.png)
 
 Soy estudiante de Ingeniería de Sistemas y Computación con un profundo interés en la tecnología, los datos y la programación. Actualmente, me encuentro inmerso en el mundo del desarrollo backend, aprovechando mis habilidades mientras construyo una sólida base en inteligencia artificial.
 
