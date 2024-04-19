@@ -6,8 +6,7 @@ Backend Developer
 
 Soy estudiante de Ingeniería de Sistemas y Computación con un profundo interés en la tecnología, los datos y la programación. Actualmente, me encuentro inmerso en el mundo del desarrollo backend, aprovechando mis habilidades mientras construyo una sólida base en inteligencia artificial.
 
-* 🌍  Soy de Chiclayo, Peru.
-* ✉️  Puedes contactarme en [al\_19\_alex\_2001@hotmail.com](mailto:al_19_alex_2001@hotmail.com)
+* 🌍  Vivo en Chiclayo, Peru.
 * 🧠  En este momento, estoy trabajando en perfeccionar mi experiencia en el desarrollo backend, centrándome especialmente en los lenguajes de programación como Python y Java, junto con frameworks como Flask. Mi objetivo es crear soluciones eficientes y escalables que aborden desafíos complejos de manera efectiva.
 * 🤝  Estoy abierto en colaborar con proyectos emocionantes que desafíen los límites de la tecnología. Ya sea desarrollando aplicaciones innovadoras o explorando los campos del aprendizaje automático.
 * ⚡  Cuando no estoy inmerso en la codificación o abordando desafíos tecnológicos, me encontrarás en el campo de fútbol o en los videojuegos. Equilibrar mi pasión por la tecnología con el deporte y el entretenimiento es lo que me mantiene inspirado y lleno de energía para lo que venga.
