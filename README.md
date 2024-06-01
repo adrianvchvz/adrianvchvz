@@ -4,7 +4,7 @@
 ### Perfil
 
 * 🌍  Vivo en Chiclayo, Perú.
-* 🧠  En este momento, estoy trabajando en perfeccionar mi experiencia en el desarrollo backend, centrándome especialmente en los lenguajes de programación como Python, Java y JavaScript, junto con frameworks como Flask y React.
+* 🧠  En este momento, estoy trabajando en perfeccionar mi experiencia en el desarrollo backend, centrándome especialmente en lenguajes de programación como Python, Java y JavaScript, junto con frameworks como Flask y React.
 * ❓  Estoy ansioso por aprender Spring Boot.
 * ⚡  Me gusta el fútbol y los videojuegos. Equilibrar mi pasión por la tecnología con el deporte y el entretenimiento es lo que me mantiene inspirado y lleno de energía para lo que venga.
 
