@@ -5,7 +5,7 @@
 
 * 🌍  Vivo en Chiclayo, Perú.
 * 🧠  Actualmente, estoy perfeccionando mi experiencia en desarrollo backend, enfocándome en el lenguaje de programación Java y el framework Spring Boot.
-* ❓  Mi próximo objetivo es aprender Docker.
+* ❓  Mi próximo objetivo es aprender AWS.
 * ⚡  Me gusta el fútbol y los videojuegos.
 
 ##
